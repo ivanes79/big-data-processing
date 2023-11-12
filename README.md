@@ -2,8 +2,8 @@
 
 ## Practica con datasets de happiness report
 
-- Esta practica trata de como se puede trabajar con datos con tecnologia spark con scala o pyspark. En ella tratamos los datos para obtener una imformacion que nos explica un poco la senasacion de felicidad que tienen las personas y algunos datos que nos pueden hacer comprender que factores pueden intervenir para tener esa sensacion de felicidad 
-- En esta practica se ha utilizado Spark y Scala para aaceder a los datos de una manera rapida y transformarlos para obtener la informacion reuqerida
+- Esta practica trata de como se puede trabajar los datos con tecnologia spark con scala o pyspark. En ella tratamos los datos para obtener una informacion que nos explica un poco la sensacion de felicidad que tienen las personas y algunos datos que nos pueden hacer comprender que factores pueden intervenir en esa sensacion de felicidad 
+- En esta practica se ha utilizado Spark y Scala para acceder a los datos de una manera rapida y transformarlos para obtener la informacion requerida
 
 
 ## Databricks
@@ -12,7 +12,7 @@
 
 ## acerca de las consultas de la practica
 
-- En esta practica se responde a varias consultas acarca de los Datasets de felicidad. EStas consultas son:
+- En esta practica se responde a varias consultas acarca de los Datasets de felicidad. Estas consultas son:
 
 1. ¿Cuál es el país más “feliz” del 2021 según la data? (considerar que la columna “Ladder score” mayor número más feliz es el país)
 2. ¿Cuál es el país más “feliz” del 2021 por continente según la data?
